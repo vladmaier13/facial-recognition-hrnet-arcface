@@ -16,3 +16,7 @@ Python, TensorFlow, OpenCV
 
 ## Note
 The dataset and trained weights are not included due to size restrictions.
+
+## Credits
+This project is based on [ArcFace TensorFlow implementation by yinguobing](https://github.com/yinguobing/arcface), 
+with significant modifications for HRNet feature extraction and additional evaluation pipelines.
